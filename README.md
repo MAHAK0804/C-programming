@@ -1,2 +1,2 @@
 # DSA
-Store code of DSA algo
+c programming
