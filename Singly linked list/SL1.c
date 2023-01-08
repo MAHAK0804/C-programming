@@ -40,7 +40,6 @@ void display()
         printf("\n");
     }
 }
-
 int main()
 {
     first==NULL;
